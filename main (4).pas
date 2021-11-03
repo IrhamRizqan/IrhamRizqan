@@ -11,7 +11,6 @@ clrscr;
 // jika user tidak perlu mengasih input
 // a:= 60;  //angka bebas
 // b:= 80;  //angka bebas
-//
 
 write('Masukan angka a : ');
     readln(a);
