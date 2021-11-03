@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @IrhamRizqan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email: irhamrizkan@gmail.com
+I’m IrhamR, I’m interested in Web Development, currently learning Programming
+Contact me at : irhamrizkan@gmail.com
 
 <!---
 IrhamRizqan/IrhamRizqan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
